@@ -1,0 +1,25 @@
+{
+  "name": "ha",
+  "version": "0.0.1",
+  "description": "A command line interface that tells you jokes",
+  "main": "ha.js",
+  "bin": "./bin/ha.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/norbusonam/ha.git"
+  },
+  "author": "Norbu Sonam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/norbusonam/ha/issues"
+  },
+  "homepage": "https://github.com/norbusonam/ha#readme",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "commander": "^6.0.0"
+  },
+  "proxy": "https://official-joke-api.appspot.com/"
+}
