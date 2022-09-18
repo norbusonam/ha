@@ -14,6 +14,6 @@ axios.get(jokeUrl)
 .then(res => {
   tellJoke(res.data)
 })
-.catch(err => {
+.catch(_ => {
   console.error('😢 Unable to get joke')
 })
