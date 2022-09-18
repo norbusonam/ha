@@ -18,9 +18,13 @@
   "bugs": {
     "url": "https://github.com/norbusonam/ha/issues"
   },
-  "keywords": ["joke", "cli", "funny"],
+  "keywords": [
+    "joke",
+    "cli",
+    "funny"
+  ],
   "homepage": "https://github.com/norbusonam/ha#readme",
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.27.2"
   }
 }
