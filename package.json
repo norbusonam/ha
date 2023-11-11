@@ -25,6 +25,6 @@
   ],
   "homepage": "https://github.com/norbusonam/ha#readme",
   "dependencies": {
-    "axios": "^0.27.2"
+    "axios": "^1.6.0"
   }
 }
